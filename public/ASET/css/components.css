@@ -1,0 +1,43 @@
+/*=========== TABLE OF CONTENTS ===========
+1. Text CSS
+==========================================*/
+
+/*-------------------------------------
+  1. Text CSS
+--------------------------------------*/
+.ui.text.size-textxs {
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ui.text.size-texts {
+  font-size: 25px;
+  font-weight: 400;
+  font-style: normal;
+  @media only screen and (max-width: 1050px) {
+    font-size: 23px;
+  }
+
+  @media only screen and (max-width: 550px) {
+    font-size: 21px;
+  }
+}
+
+.ui.text.size-textmd {
+  font-size: 30px;
+  font-weight: 400;
+  font-style: normal;
+  @media only screen and (max-width: 1050px) {
+    font-size: 28px;
+  }
+
+  @media only screen and (max-width: 550px) {
+    font-size: 26px;
+  }
+}
+
+.ui.text {
+  color: var(--white_a700_cc);
+  font-family: Roboto;
+}
