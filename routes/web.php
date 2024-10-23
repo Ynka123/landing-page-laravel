@@ -13,3 +13,7 @@ Route::get('/welcome', function () {
 Route::get('/login', function () {
     return view('login'); // ke login kalo diketik login
 });
+
+Route::get('/about', function () {
+    return view('about'); // ke login kalo diketik about
+});
