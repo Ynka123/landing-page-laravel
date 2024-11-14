@@ -39,6 +39,7 @@
         <button class="px-6 py-2 bg-gray-700 rounded-full text-white hover:bg-gray-600 shadow-lg transition">Share</button>
       </div>
       <p class="mt-6 text-gray-300 max-w-2xl">When his loved ones are in a dangerous situation, Peter Parker asks Doctor Strange to give him back his secret and accidentally causes a big mess...</p>
+      <a href="{{ route('about')}}" class="px-6 py-2 bg-gray-700 rounded-full text-white hover:bg-gray-600 shadow-lg transition">Selengkapnya</a>
     </div>
   </section>
 

@@ -37,6 +37,5 @@
       <a href="#" class="text-sm text-blue-500 hover:underline">Forgot password?</a>
     </div>
   </div>
-
 </body>
 </html>
